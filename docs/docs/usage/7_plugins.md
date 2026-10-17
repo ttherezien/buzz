@@ -20,6 +20,10 @@ Plugins extend Buzz's transcription pipeline without requiring changes to the co
 
 Generates a summary of the transcript using an OpenAI-compatible API (e.g. OpenAI, Ollama) and saves it to the transcript's Notes field and/or a text file next to the source audio. Requires an API key and base URL.
 
+### Claude Code
+
+Translates the transcript segments and/or saves a summary to the Notes field using the [Claude Code](https://code.claude.com) CLI installed on your computer. It runs `claude -p` with your signed-in Claude account, so no API key is needed (an `ANTHROPIC_API_KEY` environment variable is ignored). Claude's tools are disabled for these calls, so it only answers with text. Install Claude Code and sign in once from a terminal before enabling the plugin; if Buzz cannot find `claude`, set its path in the plugin settings. Usage counts towards your Claude plan's limits.
+
 ### Enhanced Language Detection
 
 Automatically detects the spoken language before transcription begins using a local Whisper model. Useful when transcribing files with unknown languages. Can optionally download the tiny Whisper model if no local model is available.

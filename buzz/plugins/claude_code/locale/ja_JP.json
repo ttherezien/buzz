@@ -1,0 +1,12 @@
+{
+  "Claude Code": "Claude Code",
+  "Translate and/or summarize the transcript with the Claude Code CLI installed on this computer, using your Claude account instead of an API key.": "このコンピューターにインストールされた Claude Code CLI を使い、API キーの代わりに Claude アカウントで文字起こしを翻訳または要約します。",
+  "Path to the claude executable": "claude 実行ファイルのパス",
+  "Leave empty to find it automatically.": "空欄にすると自動で検索します。",
+  "Model": "モデル",
+  "Leave empty to use the Claude Code default model (e.g. sonnet, opus, haiku).": "空欄にすると Claude Code の既定モデルを使用します(例: sonnet、opus、haiku)。",
+  "Translate segments": "セグメントを翻訳",
+  "Target language": "翻訳先の言語",
+  "Save a summary to Notes": "要約をメモに保存",
+  "Summarization prompt": "要約プロンプト"
+}

@@ -1,0 +1,12 @@
+{
+  "Claude Code": "Claude Code",
+  "Translate and/or summarize the transcript with the Claude Code CLI installed on this computer, using your Claude account instead of an API key.": "Traduit et/ou résume la transcription avec la CLI Claude Code installée sur cet ordinateur, en utilisant votre compte Claude au lieu d'une clé d'API.",
+  "Path to the claude executable": "Chemin de l'exécutable claude",
+  "Leave empty to find it automatically.": "Laisser vide pour le trouver automatiquement.",
+  "Model": "Modèle",
+  "Leave empty to use the Claude Code default model (e.g. sonnet, opus, haiku).": "Laisser vide pour utiliser le modèle par défaut de Claude Code (par ex. sonnet, opus, haiku).",
+  "Translate segments": "Traduire les segments",
+  "Target language": "Langue cible",
+  "Save a summary to Notes": "Enregistrer un résumé dans les notes",
+  "Summarization prompt": "Invite de résumé"
+}

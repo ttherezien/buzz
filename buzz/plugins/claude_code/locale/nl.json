@@ -1,0 +1,12 @@
+{
+  "Claude Code": "Claude Code",
+  "Translate and/or summarize the transcript with the Claude Code CLI installed on this computer, using your Claude account instead of an API key.": "Vertaal en/of vat het transcript samen met de Claude Code CLI die op deze computer is geïnstalleerd, met je Claude-account in plaats van een API-sleutel.",
+  "Path to the claude executable": "Pad naar het claude-programma",
+  "Leave empty to find it automatically.": "Laat leeg om het automatisch te vinden.",
+  "Model": "Model",
+  "Leave empty to use the Claude Code default model (e.g. sonnet, opus, haiku).": "Laat leeg om het standaardmodel van Claude Code te gebruiken (bijv. sonnet, opus, haiku).",
+  "Translate segments": "Segmenten vertalen",
+  "Target language": "Doeltaal",
+  "Save a summary to Notes": "Samenvatting opslaan in notities",
+  "Summarization prompt": "Samenvattingsprompt"
+}

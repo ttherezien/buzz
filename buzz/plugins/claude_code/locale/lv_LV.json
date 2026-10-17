@@ -1,0 +1,12 @@
+{
+  "Claude Code": "Claude Code",
+  "Translate and/or summarize the transcript with the Claude Code CLI installed on this computer, using your Claude account instead of an API key.": "Tulko un/vai apkopo transkripciju ar šajā datorā instalēto Claude Code CLI, izmantojot jūsu Claude kontu API atslēgas vietā.",
+  "Path to the claude executable": "Ceļš uz claude izpildāmo failu",
+  "Leave empty to find it automatically.": "Atstājiet tukšu, lai to atrastu automātiski.",
+  "Model": "Modelis",
+  "Leave empty to use the Claude Code default model (e.g. sonnet, opus, haiku).": "Atstājiet tukšu, lai izmantotu Claude Code noklusējuma modeli (piem., sonnet, opus, haiku).",
+  "Translate segments": "Tulkot segmentus",
+  "Target language": "Mērķa valoda",
+  "Save a summary to Notes": "Saglabāt kopsavilkumu piezīmēs",
+  "Summarization prompt": "Kopsavilkuma uzvedne"
+}

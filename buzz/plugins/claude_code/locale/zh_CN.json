@@ -1,0 +1,12 @@
+{
+  "Claude Code": "Claude Code",
+  "Translate and/or summarize the transcript with the Claude Code CLI installed on this computer, using your Claude account instead of an API key.": "使用本机安装的 Claude Code CLI 翻译和/或总结转录内容，使用您的 Claude 账户而不是 API 密钥。",
+  "Path to the claude executable": "claude 可执行文件路径",
+  "Leave empty to find it automatically.": "留空以自动查找。",
+  "Model": "模型",
+  "Leave empty to use the Claude Code default model (e.g. sonnet, opus, haiku).": "留空以使用 Claude Code 的默认模型（例如 sonnet、opus、haiku）。",
+  "Translate segments": "翻译片段",
+  "Target language": "目标语言",
+  "Save a summary to Notes": "将摘要保存到备注",
+  "Summarization prompt": "摘要提示词"
+}
